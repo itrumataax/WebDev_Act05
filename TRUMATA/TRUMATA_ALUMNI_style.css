@@ -1,0 +1,16 @@
+.border1{ 
+	 height: 75px;
+	 border-bottom: 1px solid #e65b7a;
+	 width: 50px;
+	 margin-top: 5px
+	 z-index: 1px; 
+     border:none;
+}
+
+.uic{
+	height: 125px;
+	width: 125px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	z-index: 2;
+}
